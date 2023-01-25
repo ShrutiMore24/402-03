@@ -1,0 +1,11 @@
+#additems{
+   
+    margin:1rem;
+    
+    }
+    
+    .innerdiv{
+        /* border: 2px solid red; */
+        display: flex;
+        align-items: center;
+    }
